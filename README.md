@@ -13,7 +13,10 @@
 
 
 ##### 구동 화면
-
+![image](https://github.com/user-attachments/assets/3d9331bb-b786-4141-952b-acd77873a49d)
+![image](https://github.com/user-attachments/assets/08c595fb-23ca-4385-b507-c69b05a41865)
+![image](https://github.com/user-attachments/assets/05a90d60-64d4-42c0-b61e-de5fae8800d2)
+![image](https://github.com/user-attachments/assets/88f47f64-f6ad-42d1-be30-15a4da239ee5)
 
 
 ##### 사용 소프트웨어
