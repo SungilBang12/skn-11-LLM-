@@ -19,6 +19,10 @@
 ![image](https://github.com/user-attachments/assets/88f47f64-f6ad-42d1-be30-15a4da239ee5)
 
 
+##### 사용 프롬프트
+![image](https://github.com/user-attachments/assets/cf837e94-6a0c-40cb-98a8-06b5fbbad549)
+
+
 ##### 사용 소프트웨어
 - ollama
 - EEVE 10.8B
